@@ -68,6 +68,8 @@ Your final report should include each of the following:
   * Item Price
   * Total Purchase Value  
 
+![image](https://user-images.githubusercontent.com/19176084/85500803-d112eb80-b5a9-11ea-8c15-cde92774a4e6.png)
+
 As final considerations:
 
 * You must use the Pandas Library and the Jupyter Notebook.
