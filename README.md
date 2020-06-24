@@ -67,6 +67,8 @@ Your final report should include each of the following:
   * Purchase Count
   * Item Price
   * Total Purchase Value
+  
+![image](https://user-images.githubusercontent.com/19176084/85500466-30bcc700-b5a9-11ea-891e-e12ca5889f53.png)
 
 As final considerations:
 
